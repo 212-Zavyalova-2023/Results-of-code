@@ -1,0 +1,24 @@
+[2025-05-24 11:10:19] Logging Interface is enabled.
+[2025-05-24 11:10:25] User chose input method: 1
+[2025-05-24 11:10:25] User chose to input commands from the keyboard.
+[2025-05-24 11:10:31] Received command: init
+[2025-05-24 11:10:31] Initializing field with size: 100 x 100
+[2025-05-24 11:10:31] Field initialized.
+[2025-05-24 11:10:39] Received command: g
+[2025-05-24 11:10:39] Adding Gaussian: x=23.000000, y=24.000000, sx=56.000000, sy=67.000000, h=100.000000
+[2025-05-24 11:10:46] Received command: generate
+[2025-05-24 11:10:46] Generated values in the field.
+[2025-05-24 11:10:53] Received command: gnuplot
+[2025-05-24 11:10:53] Called gnuplot.
+[2025-05-24 11:11:13] Received command: g
+[2025-05-24 11:11:13] Adding Gaussian: x=65.000000, y=78.000000, sx=23.000000, sy=34.000000, h=100.000000
+[2025-05-24 11:11:16] Received command: generate
+[2025-05-24 11:11:16] Generated values in the field.
+[2025-05-24 11:11:20] Received command: gnuplot
+[2025-05-24 11:11:20] Called gnuplot.
+[2025-05-24 11:12:27] Received command: bmp_write
+[2025-05-24 11:12:27] Created BMP file.
+[2025-05-24 11:12:47] Received command: bmp_read
+[2025-05-24 11:13:01] Read BMP file: output.bmp
+[2025-05-24 11:13:18] Received command: gnuplot
+[2025-05-24 11:13:18] Called gnuplot.
