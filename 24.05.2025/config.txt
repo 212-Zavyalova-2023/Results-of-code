@@ -1,0 +1,11 @@
+fieldWidth 100
+fieldHeight 100
+defaultX 50.0
+defaultY 50.0
+defaultSx 20.0
+defaultSy 20.0
+defaultH 200.0
+logFileNameForControl logcontrol.txt
+logFileNameForInterface loginterface.txt
+loggingInterfaceEnabled true
+loggingControlEnabled true
